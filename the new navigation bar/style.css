@@ -1,0 +1,69 @@
+#red
+{background-color: red;
+	height: 200px;
+	width: 20%;
+
+}
+#red:hover { 
+    background-color: purple;
+}
+
+
+#purple
+{background-color: purple;
+	height: 200px;
+	width: 20%;
+
+}
+#purple:hover { 
+    background-color: yellow;
+}
+
+
+
+#yellow
+{background-color: yellow;
+	height: 200px;
+	width: 20%;
+
+}
+#yellow:hover { 
+    background-color: green;
+}
+
+
+
+
+
+
+
+#green
+{background-color: green;
+height:200px;
+width:20%;
+p
+
+}
+#green:hover { 
+    background-color: blue;
+}
+
+
+
+
+#blue
+{background-color: blue;
+height:200px;
+width:20%;
+
+}
+#blue:hover { 
+    background-color: red;
+}
+
+
+div{
+	transition: 1s;
+	 float: left;
+
+}
